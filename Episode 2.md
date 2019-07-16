@@ -3,7 +3,7 @@ title: "Networks"
 teaching: 30
 exercises: 1
 activities: 3
-- Networks: What are they and how do they differ?
+- Networks - What are they and how do they differ?
 objectives:
 - Differentiate between different types of networks
 - Understand what the National Research Network is and how to find out more information about it
@@ -17,9 +17,9 @@ keypoints:
  
  Here is a list of different networks in Australia and their client base.
  
-**ADSL** – domestic, small business
-**NBN** – domestic (being rolled out), CBD, schools
-**NREN** – universities, CSIRO, some schools and hospitals
+- **ADSL** – domestic, small business
+- **NBN** – domestic (being rolled out), CBD, schools
+- **NREN** – universities, CSIRO, some schools and hospitals
  
 Each of these networks has different properties. 
 
@@ -27,7 +27,7 @@ Each of these networks has different properties.
 
 Digital subscriber line (DSL) service provides a connection to the Internet through the telephone network. Asymmetric digital subscriber line (ADSL) is a type of DSL technology. In ADSL, bandwidth and bit rate are said to be asymmetric, meaning greater *toward* the customer premises (downstream) than the reverse (upstream). ADSL2+ extends the capability of basic ADSL by doubling the number of downstream channels. The data rates can be as high as 24 Mbit/s downstream and up to 1.4 Mbit/s upstream. 
 
-ADSL2+ service is most commonly offered in highly-populated metropolitan areas and subscribers must be in close geographical locations to the provider in order to receive ADSL2+. The further the subscirber is from the telephone exchange.
+ADSL2+ service is most commonly offered in highly-populated metropolitan areas and subscribers must be in close geographical locations to the provider in order to receive ADSL2+. The further the subscriber is from the telephone exchange the slower the connection.
 
 ADSL2+ has a maximum potential download speed of 24Mbps. Most ADSL2+ connections are much slower: the average Australian ADSL speed is just 8Mbps.
 
@@ -41,14 +41,19 @@ The main difference for the consumer between the NBN and ADSL is speed. There ar
 
 This video helps explain: https://www.youtube.com/watch?time_continue=31&v=L3QJLEbUj94 
 
----
+
 NBN evening speeds
-Tier	Maximum speed 	Evening speed
-Basic (NBN 12)	12Mbps 	7Mbps
-Standard (NBN 25)	25Mbps 	15Mbps
-Standard Plus (NBN 50)	50Mbps	30Mbps
-Premium (NBN 100)	100Mbps	60Mbps
+------------------
+Tier|Maximum speed|Evening speed
 ---
+Basic (NBN 12)|12Mbps|7Mbps
+
+Standard (NBN 25)|25Mbps|15Mbps
+
+Standard Plus (NBN 50)|50Mbps|30Mbps
+
+Premium (NBN 100)|100Mbps|60Mbps---
+
 
 https://www.accc.gov.au/consumers/internet-landline-services/broadband-speeds
 
