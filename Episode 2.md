@@ -1,16 +1,17 @@
 ---
 title: "Networks"
 teaching: 30
-exercises: 1
-activities: 3
-- Networks - What are they and how do they differ?
+exercises: 3
+questions:
+- What are common networks and how do they differ?
 objectives:
 - Differentiate between different types of networks
-- Understand what the National Research Network is and how to find out more information about it
+- Understand what the National Research Network is
 - Calculate file transfer times using an online tool
 - Conduct a ping test and understand the result
 keypoints:
-- Different networks behave differently. Knowing about network speeds will help you make helpful data movement decisions.
+- Different networks behave differently. 
+- Knowing about network speeds means good data movement decisions.
 ---
 
 # NETWORKS
@@ -42,18 +43,17 @@ The main difference for the consumer between the NBN and ADSL is speed. There ar
 This video helps explain: https://www.youtube.com/watch?time_continue=31&v=L3QJLEbUj94 
 
 
-NBN evening speeds
-------------------
-Tier|Maximum speed|Evening speed
+### NBN evening speeds
+
+Tier | Maximum speed | Evening speed
+---- | ------------- | -------------
+Basic (NBN 12) | 12Mbps | 7Mbps
+Standard (NBN 25) | 25Mbps | 15Mbps
+Standard Plus (NBN 50) | 50Mbps | 30Mbps
+Premium (NBN 100) | 100Mbps | 60Mbps
 ---
-Basic (NBN 12)|12Mbps|7Mbps
 
-Standard (NBN 25)|25Mbps|15Mbps
-
-Standard Plus (NBN 50)|50Mbps|30Mbps
-
-Premium (NBN 100)|100Mbps|60Mbps---
-
+https://www.nbnco.com.au/content/dam/nbnco2/documents/nbn-business-fact-sheets/nbn-business-fact-sheet-tc4.pdf
 
 https://www.accc.gov.au/consumers/internet-landline-services/broadband-speeds
 
