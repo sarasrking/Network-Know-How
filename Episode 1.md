@@ -19,25 +19,25 @@ This exercise is an opportunity to begin to ask questions and to get a firmer gr
  
 In pairs, look at the list of terms below:
 
-⋅⋅*Network
-⋅⋅*Infrastructure
-⋅⋅*Bandwidth
-⋅⋅*Latency
-⋅⋅*Upload/Download
-⋅⋅*Response time
-⋅⋅*Ping
-⋅⋅*Traceroute
-⋅⋅*Speedtest
-⋅⋅*Hop
-⋅⋅*Data movement
-⋅⋅*Cloud storage
-⋅⋅*Computational notebook
-⋅⋅*Literate programming
-⋅⋅*Mbps/Gbps
-⋅⋅*NBN
-⋅⋅*NREN
-⋅⋅*Headroom
+- Network
+- Infrastructure
+- Bandwidth
+- Latency
+- Upload/Download
+- Response time
+- Ping
+- Traceroute
+- Speedtest
+- Hop
+- Data movement
+- Cloud storage
+- Computational notebook
+- Literate programming
+- Mbps/Gbps
+- NBN
+- NREN
+- Headroom
 
-Are you familiar with these terms in this context? What are the ones that trip you up? Think of a way to remember what that word or term means in this context that might help others understand it better. How could you define a term (or two!) above to make it easier to understand? Write your definitions down here - we can add to this list as we go and keep it as a resource for the future:
+Are you familiar with these terms in this context? What are the ones that trip you up? Think of a way to remember what that word or term means in this context that might help others understand it better. How could you define a term (or two!) above to make it easier to understand? Write your definitions down (you can include links) - we can add to this list on the etherpad as we go and keep it as a resource for the future:
  
 eg Latency - the delay before a transfer of data begins following an instruction for its transfer. See this page for more: [http://www.plugthingsin.com/internet/speed/latency/](http://www.plugthingsin.com/internet/speed/latency/)
