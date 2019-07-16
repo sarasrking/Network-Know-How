@@ -17,8 +17,8 @@ This exercise is an opportunity to begin to ask questions and to get a firmer gr
  
 ## Activity
  
-In pairs, look at the list of terms here:
- 
+In pairs, look at the list of terms below
+
  Network
  Infrastructure
  Bandwidth
