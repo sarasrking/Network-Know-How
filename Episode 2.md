@@ -65,16 +65,15 @@ Australia lies at a distance from research conducted in other parts of the world
  
 Click here to learn more: [https://www.aarnet.edu.au/network-and-services/advanced-network-services](https://www.aarnet.edu.au/network-and-services/advanced-network-services)
  
-### Activity
+## FILE TRANSFER TIME CALCULATION
+
+### Activity 1
  
 Test the speed of your connection: [http://www.speedtest.net/](http://www.speedtest.net/)
 
 Pay attention to upload vs download speeds. Check wi-fi, mobile phone and cable differences, either in the class or compare when you change your access type. 
  
-
-## FILE TRANSFER TIME CALCULATION
- 
-Take a look at the difference in data transfer times according to which network you are on and how you are connected:
+Now let's ake a look at some samples of data transfer times according to which network you are on and how you are connected:
 
 **100MB TRANSFER (OR MAX EMAIL ATTACHMENT)**
 
@@ -84,14 +83,15 @@ At home on poor ADSL | 3.38 Mbps | 7 minutes
 At a conference, using wifi | 54 Mbps | 17 seconds
 On the NBN | 100 Mbps | 8 seconds
 On the NREN | 10 Gbps | milliseconds
----
+--
 
 Time can be saved if the network speeds are tested ahead of trying to transfer data, network traffic levels are known, and file sizes have been calculated. How would you (or would you recommend a researcher) undertake a data transfer process? What do you need to consider when thinking about the network they are using? Did you know that the time of day at both the point of departure AND the point of arrival can have an influence on network speeds?
  
-### Activity
+### Activity 2
  
 You have 20TB data to transfer on a 40Gbps link. How long will it take to transfer that data? Use: https://techinternets.com/copy_calc
- 
+
+
 **CABLE OR WI-FI?**
  
 Networks have physical properties. 
@@ -101,9 +101,9 @@ Think of a standard network connection like rope where you unwind it and hand ou
 Many factors can influence the capacity of a wi-fi connection too. Can you think of any times when your wi-fi has become unstable?
 
  
- ### Activity
+ ### Activity 3
 
-We are going to do a 'ping' test. A ping is a message sent from one IP address to another to ensure connection. It is a signal sent to a host that requests a response. It serves two primary purposes: 1) to check if the host is available and 2) to measure how long the response takes.
+We are now going to do a 'ping' test. A ping is a message sent from one IP address to another to ensure connection. It is a signal sent to a host that requests a response. It serves two primary purposes: 1) to check if the host is available and 2) to measure how long the response takes.
 
 Instructions here: https://www.wikihow.com/Ping-an-IP-Address 
 
@@ -114,14 +114,23 @@ A ping test is an important step in troubleshooting speed and connection problem
 ## Resources:
 
 Types of networks:
+
 https://en.wikipedia.org/wiki/Internet_access
+
 https://en.wikipedia.org/wiki/Internet_in_Australia
+
 https://en.wikipedia.org/wiki/Asymmetric_digital_subscriber_line
+
 https://en.wikipedia.org/wiki/G.992.5 
 
 More about the NBN:
+
 https://www.nbnco.com.au/content/dam/nbnco2/documents/nbn-business-fact-sheets/nbn-business-fact-sheet-tc4.pdf
+
 https://www.accc.gov.au/consumers/internet-landline-services/broadband-speeds
+
 https://www.whistleout.com.au/Broadband/Guides/what-nbn-speed-do-you-need
+
 https://www.nbnco.com.au/residential/learn/speed
+
 https://en.wikipedia.org/wiki/National_Broadband_Network
