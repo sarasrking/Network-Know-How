@@ -52,8 +52,11 @@ A network, in computing, is a group of two or more devices that can communicate.
 Computer networks serve a number of purposes, some of which include:
 
 ●	Communications such as email, instant messaging, chat rooms, etc.
+
 ●	Shared hardware such as printers and input devices
+
 ●	Shared data and information through the use of shared storage devices
+
 ●	Shared software, which is achieved by running applications on remote computers
 
 From: https://www.techopedia.com/definition/5537/network
