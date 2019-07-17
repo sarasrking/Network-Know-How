@@ -64,6 +64,10 @@ Australia is a large continent, and the networks AARNet provides enable data cap
 Australia lies at a distance from research conducted in other parts of the world, like the northern hemisphere, and the networks AARNet provides, aid in removing distance as a barrier, to research collaboration.
  
 Click here to learn more: [https://www.aarnet.edu.au/network-and-services/advanced-network-services](https://www.aarnet.edu.au/network-and-services/advanced-network-services)
+
+**Remember** 
+
+Headroom: By capping utilization at less than link capacity, the AARnet network leaves room for latency sensitive traffic in order to avoid buffering and the associated large delays.
  
 ## FILE TRANSFER TIME CALCULATION
 
