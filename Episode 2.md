@@ -57,7 +57,7 @@ Premium (NBN 100) | 100Mbps | 60Mbps
 
 ## NREN
  
-The Australian National Research Network (NREN) provides advanced research network infrastructure. It is fast, with connections from 10 Gbps to 40 and 100 Gbps. It is high capacity, catering to 1 million + users and is tailored for research, teaching and learning. It has low latency (lag) providing consistent connectivity and response times because it is designed to have ‘headroom’ or allow for bursts (elephants) of large data moving through the network. 
+The Australian National Research Network (NREN) provides advanced research network infrastructure. It is *fast*, with connections from 10 Gbps to 40 and 100 Gbps. It is high capacity, catering to 1 million + users and is tailored for research, teaching and learning. It has low latency (lag) providing consistent connectivity and response times because it is designed to have ‘headroom’ or allow for bursts (elephants) of large data moving through the network. 
  
 Australia is a large continent, and the networks AARNet provides enable data capture and research to be conducted in major cities and in regional areas, where universities and research facilities and infrastructure are located, e.g. the National Computational Infrastructure (NCI) in Canberra and the Square Kilometre Array (SKA) in Murchison (WA).
  
