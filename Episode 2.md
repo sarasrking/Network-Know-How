@@ -69,15 +69,21 @@ Click here to learn more: [https://www.aarnet.edu.au/network-and-services/advanc
 
 **Headroom**: By capping utilization at less than link capacity, the AARNet network leaves room for latency sensitive traffic in order to avoid buffering and the associated large delays.
  
-## FILE TRANSFER TIME CALCULATION
+# FILE TRANSFER TIME CALCULATION
+
+## Speedtest
+
+You can test the speed of your connection by using an app or a website. Let's try it!
 
 ### Activity 1
  
-Test the speed of your connection: [http://www.speedtest.net/](http://www.speedtest.net/)
+Test the speed of your connection by clicking on this link: [http://www.speedtest.net/](http://www.speedtest.net/)
 
 Pay attention to upload vs download speeds. Check wi-fi, mobile phone and cable differences, either in the class or compare when you change your access type. 
+
+Compare these speeds with what you learnt about different networks in the first part of the workshop. Do they match up? What would you consider a 'fast' connection? A 'slow' one?
  
-Now let's ake a look at some samples of data transfer times according to which network you are on and how you are connected:
+Now let's take a look at some samples of data transfer times according to which network you are on and how you are connected:
 
 **100MB TRANSFER (OR MAX EMAIL ATTACHMENT)**
 
@@ -93,7 +99,9 @@ Time can be saved if the network speeds are tested ahead of trying to transfer d
  
 ### Activity 2
  
-You have 20TB data to transfer on a 40Gbps link. How long will it take to transfer that data? Use: https://techinternets.com/copy_calc
+You have 20TB data to transfer on a 40Gbps link. How long will it take to transfer that data? 
+
+Use: https://techinternets.com/copy_calc
 
 
 **CABLE OR WI-FI?**
