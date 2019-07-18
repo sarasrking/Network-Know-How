@@ -1,14 +1,13 @@
 ---
 title: "Networks"
 teaching: 30
-exercises: 3
+exercises: 1
 questions:
 - What are common networks and how do they differ?
 objectives:
 - Differentiate between different types of networks
 - Understand what the National Research Network is
-- Calculate file transfer times using an online tool
-- Conduct a ping test and understand the result
+- Conduct a speed test and understand the result
 keypoints:
 - Different networks behave differently. 
 - Knowing about network speeds means good data movement decisions.
