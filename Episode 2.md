@@ -1,6 +1,6 @@
 ---
 title: "Networks"
-teaching: 30
+teaching: 15
 exercises: 1
 questions:
 - What are common networks and how do they differ?
@@ -74,7 +74,7 @@ Click here to learn more: [https://www.aarnet.edu.au/network-and-services/advanc
  
 # Network speeds
 
-We are now going to use a tool to better understand network speeds.
+We are now going to use a tool to better understand network speeds. One of the key factors in data movement is network speeds. These speeds can be affected by different issues, such as time of day and physical interference.
 
 ## Speed test
 
@@ -93,7 +93,12 @@ Compare these speeds with what you learnt about different networks in the first 
  
 ## CABLE OR WI-FI?
  
-Networks have physical properties. 
+Networks have physical properties.
+
+Take a look at these websites that address some of the factors that affect network speeds:
+
+* Time of day - https://www.accc.gov.au/consumers/internet-landline-services/broadband-speeds (go to section 'Network limitations that affect speed')
+* Physical interference - https://www.performancenetworks.co.uk/blog/post/5-factors-can-affect-wifi-signal/
 
 Think of a standard network connection like rope where you unwind it and hand out each strand (as users log in). The more users, the less and less rope there is to hand out. Many laptops link to an access point on the network and that access point divides up the traffic to each laptop user. Even the placement of the cables can make a difference, as interference can come from different places, such as lifts and fans!
 
