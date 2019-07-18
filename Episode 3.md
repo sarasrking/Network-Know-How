@@ -32,7 +32,12 @@ Exabyte | EB | 1000 PB | All the information generated up to 2003 = 5 EB
 Zettabyte | ZB | 1000 EB | All the data recorded in 2011 = 1.8 ZB
 Yottabyte | YB | 1000 ZB | Storage capacity of the NSA datacentre in Utah (92000m sq, in 2013) = 1 YB
 ---
+
+This image is to help you understand the scale of data that we are starting to see in research - petabytes are becoming more and more common in university research.
+
 ![comparative-scale-of-bytes](https://user-images.githubusercontent.com/48195568/61427124-28511a80-a95c-11e9-88aa-f39b8c929fa8.png)
 
-No copyright infringement intended. 
+The information in the table above comes from this infographic.
+
+Source: http://www.cnrs.fr/fr/pdf/cim/CIM28.pdf No copyright infringement intended.
 
