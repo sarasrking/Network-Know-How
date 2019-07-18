@@ -73,9 +73,9 @@ Click here to learn more: [https://www.aarnet.edu.au/network-and-services/advanc
 
 **Headroom**: By capping utilization at less than link capacity, the AARNet network leaves room for latency sensitive traffic in order to avoid buffering and the associated large delays.
  
-# Hands on exercises
+# Network speeds
 
-We are now going to use a few different tools to better understand network speeds and how data moves around.
+We are now going to use a tool to better understand network speeds.
 
 ## Speed test
 
@@ -92,58 +92,13 @@ Compare these speeds with what you learnt about different networks in the first 
 * Do they match up? 
 * What would you consider a 'fast' connection? A 'slow' one?
  
-## File transfer time calculation
-
-### Activity 2
-
-Now let's take a look at some samples of data transfer times according to which network you are on and how you are connected:
-
-**100MB TRANSFER (OR MAX EMAIL ATTACHMENT)**
-
-Network type | Connection speed | Transfer time
------------- | ---------------- | -------------
-At home on poor ADSL | 3.38 Mbps | 7 minutes
-At a conference, using wifi | 54 Mbps | 17 seconds
-On the NBN | 100 Mbps | 8 seconds
-On the NREN | 10 Gbps | milliseconds
-
-
-
-Time can be saved if the network speeds are tested ahead of trying to transfer data, network traffic levels are known, and file sizes have been calculated. 
-## Ping test
-
- ### Activity 2
-
-We are now going to do a 'ping' test. A ping is a message sent from one IP address to another to ensure connection. It is a signal sent to a host that requests a response. It serves two primary purposes: 1) to check if the host is available and 2) to measure how long the response takes.
-
-Instructions here: https://www.wikihow.com/Ping-an-IP-Address 
-
-Pay attention to the network address, speed in milliseconds, packet loss, and min/avg/max speeds. Try a few different websites to see if there are differences.
-
-A ping test is an important step in troubleshooting speed and connection problems with specific servers or even your own router. It can help identify problems along a network path.
-
-### Activity 3
-
-### Activity 2
- 
-You have 20TB data to transfer on a 40Gbps link. How long will it take to transfer that data? 
-
-Use: https://techinternets.com/copy_calc
-
-
-**CABLE OR WI-FI?**
+## CABLE OR WI-FI?
  
 Networks have physical properties. 
 
-Think of a standard network connection like rope where you unwind it and hand out each strand (as users log in). The more users, the less and less rope there is to hand out. Many laptops link to an access point on the network (the wifi) and that access point divides up the traffic to each laptop user. Even the placement of the cables can make a difference, as interference can come from different places, such as lifts and fans!
+Think of a standard network connection like rope where you unwind it and hand out each strand (as users log in). The more users, the less and less rope there is to hand out. Many laptops link to an access point on the network and that access point divides up the traffic to each laptop user. Even the placement of the cables can make a difference, as interference can come from different places, such as lifts and fans!
 
 Many factors can influence the capacity of a wi-fi connection too. Can you think of any times when your wi-fi has become unstable?
-
-
-
-* How would you (or would you recommend a researcher) undertake a data transfer process? 
-* What do you need to consider when thinking about the network they are using? 
-* Did you know that the time of day at both the point of departure AND the point of arrival can have an influence on network speeds?
 
 ## Resources:
 
