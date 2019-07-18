@@ -55,23 +55,29 @@ Standard Plus (NBN 50) | 50Mbps | 30Mbps
 Premium (NBN 100) | 100Mbps | 60Mbps
 ---
 
+### *Remember!*
+
+The download and upload speeds of the domestic broadband speeds factor for more download than upload. That is, it is assumed that people download more than they upload.
+
 ## NREN
  
 The Australian National Research Network (NREN) provides advanced research network infrastructure. It is *fast*, with connections from 10 Gbps to 40 and 100 Gbps. It is high capacity, catering to 1 million + users and is tailored for research, teaching and learning. It has low latency (lag) providing consistent connectivity and response times because it is designed to have ‘headroom’ or allow for bursts (elephants) of large data moving through the network. 
  
 Australia is a large continent, and the networks AARNet provides enable data capture and research to be conducted in major cities and in regional areas, where universities and research facilities and infrastructure are located, e.g. the National Computational Infrastructure (NCI) in Canberra and the Square Kilometre Array (SKA) in Murchison (WA).
  
-Australia lies at a distance from research conducted in other parts of the world, like the northern hemisphere, and the networks AARNet provides, aid in removing distance as a barrier, to research collaboration.
- 
+Australia lies at a distance from research conducted in other parts of the world, like the northern hemisphere, and the networks AARNet provides aid in removing distance as a barrier to research collaboration.
+
 Click here to learn more: [https://www.aarnet.edu.au/network-and-services/advanced-network-services](https://www.aarnet.edu.au/network-and-services/advanced-network-services)
 
-#### **Remember!** 
+#### *Remember!* 
 
 **Headroom**: By capping utilization at less than link capacity, the AARNet network leaves room for latency sensitive traffic in order to avoid buffering and the associated large delays.
  
-# FILE TRANSFER TIME CALCULATION
+# Hands on exercises
 
-## Speedtest
+We are now going to use a few different tools to better understand network speeds and how data moves around.
+
+## Speed test
 
 You can test the speed of your connection by using an app or a website. Let's try it!
 
@@ -81,8 +87,15 @@ Test the speed of your connection by clicking on this link: [http://www.speedtes
 
 Pay attention to upload vs download speeds. Check wi-fi, mobile phone and cable differences, either in the class or compare when you change your access type. 
 
-Compare these speeds with what you learnt about different networks in the first part of the workshop. Do they match up? What would you consider a 'fast' connection? A 'slow' one?
+Compare these speeds with what you learnt about different networks in the first part of the workshop. 
+
+* Do they match up? 
+* What would you consider a 'fast' connection? A 'slow' one?
  
+## File transfer time calculation
+
+### Activity 2
+
 Now let's take a look at some samples of data transfer times according to which network you are on and how you are connected:
 
 **100MB TRANSFER (OR MAX EMAIL ATTACHMENT)**
@@ -93,10 +106,24 @@ At home on poor ADSL | 3.38 Mbps | 7 minutes
 At a conference, using wifi | 54 Mbps | 17 seconds
 On the NBN | 100 Mbps | 8 seconds
 On the NREN | 10 Gbps | milliseconds
---
 
-Time can be saved if the network speeds are tested ahead of trying to transfer data, network traffic levels are known, and file sizes have been calculated. How would you (or would you recommend a researcher) undertake a data transfer process? What do you need to consider when thinking about the network they are using? Did you know that the time of day at both the point of departure AND the point of arrival can have an influence on network speeds?
- 
+
+
+Time can be saved if the network speeds are tested ahead of trying to transfer data, network traffic levels are known, and file sizes have been calculated. 
+## Ping test
+
+ ### Activity 2
+
+We are now going to do a 'ping' test. A ping is a message sent from one IP address to another to ensure connection. It is a signal sent to a host that requests a response. It serves two primary purposes: 1) to check if the host is available and 2) to measure how long the response takes.
+
+Instructions here: https://www.wikihow.com/Ping-an-IP-Address 
+
+Pay attention to the network address, speed in milliseconds, packet loss, and min/avg/max speeds. Try a few different websites to see if there are differences.
+
+A ping test is an important step in troubleshooting speed and connection problems with specific servers or even your own router. It can help identify problems along a network path.
+
+### Activity 3
+
 ### Activity 2
  
 You have 20TB data to transfer on a 40Gbps link. How long will it take to transfer that data? 
@@ -112,16 +139,11 @@ Think of a standard network connection like rope where you unwind it and hand ou
 
 Many factors can influence the capacity of a wi-fi connection too. Can you think of any times when your wi-fi has become unstable?
 
- 
- ### Activity 3
 
-We are now going to do a 'ping' test. A ping is a message sent from one IP address to another to ensure connection. It is a signal sent to a host that requests a response. It serves two primary purposes: 1) to check if the host is available and 2) to measure how long the response takes.
 
-Instructions here: https://www.wikihow.com/Ping-an-IP-Address 
-
-Pay attention to the network address, speed in milliseconds, packet loss, and min/avg/max speeds. Try a few different websites to see if there are differences.
-
-A ping test is an important step in troubleshooting speed and connection problems with specific servers or even your own router. It can help identify problems along a network path.
+* How would you (or would you recommend a researcher) undertake a data transfer process? 
+* What do you need to consider when thinking about the network they are using? 
+* Did you know that the time of day at both the point of departure AND the point of arrival can have an influence on network speeds?
 
 ## Resources:
 
