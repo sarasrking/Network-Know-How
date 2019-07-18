@@ -1,7 +1,7 @@
 ---
 title: "Calculating file transfer time"
 teaching: 15
-exercises: 2
+exercises: 3
 questions:
 - How do you calculate how long it will take to move a file or group of files?
 objectives:
@@ -56,3 +56,29 @@ Note: Research data collections are now growing into the multi terabyte and peta
 
 #### Activity 2
 
+Use this chart to work out what is required:
+
+1. If you want to send 100MB in 5 minutes?
+2. If you want to send 100TB overnight?
+3. If you want to send 100TB in an hour?
+
+![File transfer bingo](https://user-images.githubusercontent.com/48195568/61436556-331aa800-a97a-11e9-9d32-2cd24fee57fa.png)
+
+Note: Science DMZ data rates: the table shows the bandwidth required to transfer data sizes for allotted time frames. The base data is sourced from ESnet and recalculated. What data rates are needed? 
+
+
+ANSWERS:
+
+1. 2.67 Mbps 
+2. 27.78 Gbps 
+3. 222.22 Gbps
+
+## Calculating file transfer times
+
+There is a quick way to work out how long it takes to transfer an amount of data once you know your network speed. Let's try it! You might want to save this one for the future. 
+
+#### Activity 3
+
+You have 20TB data to transfer on a 40Gbps link. How long will it take to transfer that data? 
+
+Use: https://techinternets.com/copy_calc
