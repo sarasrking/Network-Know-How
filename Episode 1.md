@@ -21,6 +21,7 @@ In pairs, look at the list of terms below:
 
 - Network
 - Infrastructure
+- Bits vs Bytes
 - Bandwidth
 - Latency
 - Upload/Download
