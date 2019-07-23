@@ -34,7 +34,7 @@ Or follow the steps below, depending on the operating system you are using:
 
   * Windows: Type “cmd” in the search box in your task bar at the bottom of the screen, then open up the Command Prompt. Type **ping aarnet.edu.au**
 
-  * Linux: Open a terminal window, type **ping aarnet.edu.au** the press **CTRL+C** C to stop the command
+  * Linux: Open a terminal window, type **ping aarnet.edu.au** the press **CTRL+C** to stop the command
 
   * Mac: Open up Network Utilities (using Spotlight) and select *ping menu* and type in **aarnet.edu.au**
 
@@ -44,7 +44,9 @@ A ping test is an important step in troubleshooting speed and connection problem
 
 ## Traceroute
 
-When you're on the Internet, a number of computers networked together help you receive and transmit information. Information or requests sent from your computer don't reach the destination computer in a single jump (or hop!). Data requests and replies take unique routes. The 'traceroute' command will show you how many hops there are between you and your destination address, and how long it took to move the data from one computer to the next.
+When you're on the Internet, a number of computers networked together help you receive and transmit information. Information or requests sent from your computer don't reach the destination computer in a single jump (or hop!). Data requests and replies take unique routes. 
+
+The 'traceroute' command will show you how many hops there are between you and your destination address, and how long it took to move the data from one computer to the next.
 
 See instructions here: https://iihelp.iinet.net.au/How_to_run_a_traceroute
 
@@ -52,7 +54,7 @@ Or follow the steps below, depending on the operating system you are using:
 
   * Windows: Type “cmd” in the search box in your task bar at the bottom of the screen, then open up the Command Prompt. Type **tracert aarnet.edu.au**
 
-  * Linux: Open a terminal window, type **traceroute aarnet.edu.au** the press **CTRL+C** C to stop the command
+  * Linux: Open a terminal window, type **traceroute aarnet.edu.au** the press **CTRL+C** to stop the command
 
   * Mac: Open up Network Utilities (using Spotlight) and select *traceroute menu* and type in **aarnet.edu.au**
 
