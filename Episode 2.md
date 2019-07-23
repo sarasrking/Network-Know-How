@@ -35,9 +35,10 @@ ADSL2+ has a maximum potential download speed of 24Mbps. Most ADSL2+ connections
 
 The National Broadband Network (NBN) is an Australian national wholesale open-access data network project. It is a government initiative to upgrade Australia’s broadband infrastructure to provide consumers with faster broadband connections.
 
-Using a variety of broadband network technologies including running fibre all the way to the consumer’s premises (‘fibre to the premises’ or FTTP), running fibre to a nearby box or apartment block and then using the existing copper telephone wire (‘fibre to the node’ FTTN, and ‘fibre to the basement’ FTTP) the aim is to bring data closer to the end user on optical fibers. The differences between the methods have mostly to do with just how close to the end user the delivery on fiber comes.
+Using a variety of broadband network technologies including running fibre all the way to the consumer’s premises (‘fibre to the premises’ or FTTP), ir running fibre to a nearby box or apartment block and then using the existing copper telephone wire (‘fibre to the node’ or FTTN, and ‘fibre to the building’ or FTTB). The aim is to bring data closer to the end user on optical fibres. The differences between the methods have mostly to do with how close the delivery on fibre is to the end user.
 
-The main difference for the consumer between the NBN and ADSL is speed. There are various options for speed, depending on requirements.
+
+NOTE: The main difference for the consumer between the NBN and ADSL is speed. There are various options for speed, depending on requirements.
 
 This video helps explain: https://www.youtube.com/watch?time_continue=31&v=L3QJLEbUj94 
 
