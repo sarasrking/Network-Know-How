@@ -1,5 +1,5 @@
 ---
-title: "Networks"
+title: "Networks and Connections"
 teaching: 15
 exercises: 1
 questions:
@@ -13,19 +13,19 @@ keypoints:
 - Knowing about network speeds means good data movement decisions.
 ---
 
-# NETWORKS
+# NETWORKS AND CONNECTIONS
  
- Here is a list of different networks in Australia and their client base.
+ Here is a list of different technologies used in Australia for connecting computers and the internet:
  
 - **ADSL** – domestic, small business
 - **NBN** – domestic (being rolled out), CBD, schools
 - **NREN** – universities, CSIRO, some schools and hospitals
  
-Each of these networks has different properties. 
+Each of these has different properties. 
 
 ## ADSL
 
-Digital subscriber line (DSL) service provides a connection to the Internet through the telephone network. Asymmetric digital subscriber line (ADSL) is a type of DSL technology. In ADSL, bandwidth and bit rate are said to be asymmetric, meaning greater *toward* the customer premises (downstream) than the reverse (upstream). ADSL2+ extends the capability of basic ADSL by doubling the number of downstream channels. The data rates can be as high as 24 Mbit/s downstream and up to 1.4 Mbit/s upstream. 
+ A digital subscriber line (DSL) service provides a connection to the Internet through the telephone network. Asymmetric digital subscriber line (ADSL) is a type of DSL technology. In ADSL, bandwidth and bit rate are said to be asymmetric, meaning greater *toward* the customer premises (downstream) than the reverse (upstream). ADSL2+ extends the capability of basic ADSL by doubling the number of downstream channels. The data rates can be as high as 24 Mbit/s downstream and up to 1.4 Mbit/s upstream. 
 
 ADSL2+ service is most commonly offered in highly-populated metropolitan areas and subscribers must be in close geographical locations to the provider in order to receive ADSL2+. The further the subscriber is from the telephone exchange the slower the connection.
 
